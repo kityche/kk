@@ -1,0 +1,844 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "BRTV新闻",
+            "num": "00001",
+            "urllist": "http://live.funhillrm.com/5/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-12社会与法",
+            "num": "00002",
+            "urllist": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-16奥林匹克",
+            "num": "00003",
+            "urllist": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-7军事·农业",
+            "num": "00004",
+            "urllist": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-8电视剧",
+            "num": "00005",
+            "urllist": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "EZTV1台",
+            "num": "00006",
+            "urllist": "http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "EZTV2台",
+            "num": "00007",
+            "urllist": "http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "EZTV6台",
+            "num": "00008",
+            "urllist": "http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "璧山综合",
+            "num": "00009",
+            "urllist": "http://222.179.42.129:8181/hls1.m3u8?zzhongqd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "滨海新闻",
+            "num": "00010",
+            "urllist": "http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "滨海综艺",
+            "num": "00011",
+            "urllist": "http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "常熟民生经济",
+            "num": "00012",
+            "urllist": "http://cstvplay.21cs.cn/cstv2/cstv2.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "承德公共生活",
+            "num": "00013",
+            "urllist": "https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "承德新闻综合",
+            "num": "00014",
+            "urllist": "https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "大立电视",
+            "num": "00015",
+            "urllist": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "德阳公共",
+            "num": "00016",
+            "urllist": "http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "德阳新闻综合",
+            "num": "00017",
+            "urllist": "http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "点掌财经",
+            "num": "00018",
+            "urllist": "https://wsvideo.aniu.tv/live/aniu/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "房山无线频道",
+            "num": "00019",
+            "urllist": "http://live.funhillrm.com/2/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00020",
+            "urllist": "http://221.7.175.154:8445/tsfile/live/1021_1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "福州新闻",
+            "num": "00021",
+            "urllist": "http://live.zohi.tv/video/s10001-fztv-1/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "甘孜综合",
+            "num": "00022",
+            "urllist": "http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "赣州公共",
+            "num": "00023",
+            "urllist": "http://wb.jxgztv.com/live/gztv2.flv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "赣州新闻",
+            "num": "00024",
+            "urllist": "http://wb.jxgztv.com/live/gztv1.flv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "港集专线直播",
+            "num": "00025",
+            "urllist": "https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "广东文化",
+            "num": "00026",
+            "urllist": "https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "广东文化",
+            "num": "00027",
+            "urllist": "https://glive.grtn.cn/live/wenhua_test0203.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "广东文化",
+            "num": "00028",
+            "urllist": "https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "邯郸公共",
+            "num": "00029",
+            "urllist": "https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "邯郸新闻",
+            "num": "00030",
+            "urllist": "https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "杭州余杭综合",
+            "num": "00031",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "贺州综合",
+            "num": "00032",
+            "urllist": "http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "鹤岗新闻综合",
+            "num": "00033",
+            "urllist": "http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "淮安公共频道",
+            "num": "00034",
+            "urllist": "http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "环球电视台",
+            "num": "00035",
+            "urllist": "http://zb.xzxwhcb.com:9999/hls/world.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "黄河卫视",
+            "num": "00036",
+            "urllist": "http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "江山电视台",
+            "num": "00037",
+            "urllist": "http://play-sh.quklive.com/live/1623117710666335.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "江阴新闻综合",
+            "num": "00038",
+            "urllist": "http://221.228.70.101:8080/live/xinwen.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "焦作公共",
+            "num": "00039",
+            "urllist": "http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "焦作综合",
+            "num": "00040",
+            "urllist": "http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "金川乡村",
+            "num": "00041",
+            "urllist": "http://live.jinchuanrmt.com:90/live/jcxc.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "金湖新闻综合",
+            "num": "00042",
+            "urllist": "http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "金华东阳综合",
+            "num": "00043",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "经济生活",
+            "num": "00044",
+            "urllist": "https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "荆门新闻",
+            "num": "00045",
+            "urllist": "http://stream.jmtv.com.cn/xwzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "靖江电视",
+            "num": "00046",
+            "urllist": "http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "丽水青田综合",
+            "num": "00047",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "丽水松阳综合",
+            "num": "00048",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "丽水遂昌综合",
+            "num": "00049",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "丽水云和综合",
+            "num": "00050",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "利州综合",
+            "num": "00051",
+            "urllist": "http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "连云港新闻综合",
+            "num": "00052",
+            "urllist": "http://live.lyg1.com/zhpd/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "龙游生活娱乐",
+            "num": "00053",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "龙游新闻综合",
+            "num": "00054",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "麻栗坡",
+            "num": "00055",
+            "urllist": "http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "蒙语卫视",
+            "num": "00056",
+            "urllist": "https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "蒙语文化",
+            "num": "00057",
+            "urllist": "https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "面包台",
+            "num": "00058",
+            "urllist": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "南昌文旅",
+            "num": "00059",
+            "urllist": "http://live.cooltv.top/tv/nctv.php?id=2"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "南昌新闻综合",
+            "num": "00060",
+            "urllist": "http://live.cooltv.top/tv/nctv.php?id=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "南昌资讯",
+            "num": "00061",
+            "urllist": "http://live.cooltv.top/tv/nctv.php?id=3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "南京十八",
+            "num": "00062",
+            "urllist": "http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "南京信息",
+            "num": "00063",
+            "urllist": "http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "南京娱乐",
+            "num": "00064",
+            "urllist": "http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "宁波象山综合",
+            "num": "00065",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "宁波余姚生活",
+            "num": "00066",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "宁波余姚综合",
+            "num": "00067",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "沛县新闻综合",
+            "num": "00068",
+            "urllist": "http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "平湖民生休闲",
+            "num": "00069",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "普陀新闻综合",
+            "num": "00070",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "青海卫视",
+            "num": "00071",
+            "urllist": "http://stream.qhbtv.com/qhws/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "衢州开化综合",
+            "num": "00072",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "衢州龙游生活",
+            "num": "00073",
+            "urllist": "https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "人间卫视",
+            "num": "00074",
+            "urllist": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "人间卫视",
+            "num": "00075",
+            "urllist": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "如东新闻",
+            "num": "00076",
+            "urllist": "http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山西法治",
+            "num": "00077",
+            "urllist": "http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山西经济",
+            "num": "00078",
+            "urllist": "http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山西经济",
+            "num": "00079",
+            "urllist": "http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山西卫视",
+            "num": "00080",
+            "urllist": "http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山西卫视",
+            "num": "00081",
+            "urllist": "http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山西文体",
+            "num": "00082",
+            "urllist": "http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山西影视",
+            "num": "00083",
+            "urllist": "http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "上虞文化影院",
+            "num": "00084",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "上虞新商都",
+            "num": "00085",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "上虞新商都",
+            "num": "00086",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "上虞新闻综合",
+            "num": "00087",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "绍兴文化影视",
+            "num": "00088",
+            "urllist": "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "绍兴新闻综合",
+            "num": "00089",
+            "urllist": "http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "深圳都市",
+            "num": "00090",
+            "urllist": "http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "十堰新闻",
+            "num": "00091",
+            "urllist": "http://p8.vzan.com/slowlive/034028687228317362/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "石家庄新闻",
+            "num": "00092",
+            "urllist": "http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "泗阳资讯频道",
+            "num": "00093",
+            "urllist": "http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "泗阳综合频道",
+            "num": "00094",
+            "urllist": "http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "松潘新闻综合",
+            "num": "00095",
+            "urllist": "http://live.spccmc.com:90/live/spxwzh.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "苏州4K超清",
+            "num": "00096",
+            "urllist": "http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "苏州文化生活",
+            "num": "00097",
+            "urllist": "http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "苏州新闻综合",
+            "num": "00098",
+            "urllist": "http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "睢宁三农频道",
+            "num": "00099",
+            "urllist": "http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "睢宁资讯频道",
+            "num": "00100",
+            "urllist": "http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8?zjiangsd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "通道时政",
+            "num": "00101",
+            "urllist": "http://live.tongdaotv.com:8087/live/tdtv.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "通道时政",
+            "num": "00102",
+            "urllist": "http://live.tongdaotv.com:8087/live/tdtv.m3u8?hls_ctx=l02v9v6u"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "潼南综合",
+            "num": "00103",
+            "urllist": "http://183.230.184.51:65500/tntv1.m3u8?zzhongqd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "万源新闻综合",
+            "num": "00104",
+            "urllist": "http://live.wanyuannews.com/wytv/hd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "文成综合",
+            "num": "00105",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "文体娱乐",
+            "num": "00106",
+            "urllist": "https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "汶川新闻综合",
+            "num": "00107",
+            "urllist": "http://live.iwcmt.cn:90/live/zhxw.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "乌鲁木齐维语综合",
+            "num": "00108",
+            "urllist": "http://mmitv.top/test/tianma.php?id=utvwyzh"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无锡生活",
+            "num": "00109",
+            "urllist": "http://stream.thmz.com/wxtv4/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "无锡新闻综合",
+            "num": "00110",
+            "urllist": "http://stream.thmz.com/wxtv1/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "武汉生活",
+            "num": "00111",
+            "urllist": "http://stream.appwuhan.com/3tzb/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "武汉文体",
+            "num": "00112",
+            "urllist": "http://stream.appwuhan.com/5tzb/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "武汉新闻综合",
+            "num": "00113",
+            "urllist": "http://stream.appwuhan.com/1tzb/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "淅川综合",
+            "num": "00114",
+            "urllist": "http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "香港卫视",
+            "num": "00115",
+            "urllist": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "湘潭新闻综合",
+            "num": "00116",
+            "urllist": "http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "萧山生活频道",
+            "num": "00117",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "新加坡国际",
+            "num": "00118",
+            "urllist": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "新加坡中文台",
+            "num": "00119",
+            "urllist": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "新田综合",
+            "num": "00120",
+            "urllist": "http://play-a2.quklive.com/live/1668150678653241.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "新闻综合",
+            "num": "00121",
+            "urllist": "https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "邢台综合",
+            "num": "00122",
+            "urllist": "http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "兴隆综合",
+            "num": "00123",
+            "urllist": "https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "叙州新闻综合",
+            "num": "00124",
+            "urllist": "http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "烟台公共频道",
+            "num": "00125",
+            "urllist": "http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "烟台经济科技",
+            "num": "00126",
+            "urllist": "http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "烟台新闻综合",
+            "num": "00127",
+            "urllist": "http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "延边汉语综合",
+            "num": "00128",
+            "urllist": "http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "延边卫视",
+            "num": "00129",
+            "urllist": "http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "延边卫视",
+            "num": "00130",
+            "urllist": "http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "伊犁哈萨克",
+            "num": "00131",
+            "urllist": "http://110.153.180.106:55555/out_3/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "营山电视台",
+            "num": "00132",
+            "urllist": "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江国际",
+            "num": "00133",
+            "urllist": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江教科影视",
+            "num": "00134",
+            "urllist": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江钱江都市",
+            "num": "00135",
+            "urllist": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江新闻",
+            "num": "00136",
+            "urllist": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "镇江民生",
+            "num": "00137",
+            "urllist": "http://zjtv-wshls.homecdn.com/live/2aa16.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "镇江新闻综合",
+            "num": "00138",
+            "urllist": "http://zjtv-wshls.homecdn.com/live/2aa50.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "重庆卫视",
+            "num": "00139",
+            "urllist": "https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "=未分组="
+        }
+    ]
+}
